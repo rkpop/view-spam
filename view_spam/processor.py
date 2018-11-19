@@ -1,2 +1,2 @@
-def filter_timeframe(input_list):
+def filter_timeframe(timeframe, input_data):
     pass
